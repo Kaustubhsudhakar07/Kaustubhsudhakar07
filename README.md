@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Kaustubh — a passionate Full Stack Web Developer who loves building clean, responsive, and scalable web applications. I enjoy turning ideas into reality through code and continuously learning new technologies to improve my craft.
+Hi! I’m Kaustubh — a passionate AI/ML developer and final-year student at IIT Dhanbad. I love building intelligent, scalable applications and exploring Machine Learning, Deep Learning, NLP, Generative AI, and Agentic AI. I enjoy turning ideas into real-world solutions through code.
 
 
 ## 🌐 Socials:
